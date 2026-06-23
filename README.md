@@ -19,12 +19,13 @@ SPMS/ │── index.html │── jobs.html │── style.css │── scr
 ⚙️ How to Run
 
 Clone the repository:
-git clone https://github.com/jyoti-jindal685/SPMS-Software-Personnel-Management-System.git
+git clone https://github.com/IshikaChhikara/SPMS-Software-Personnel-Management-System.git
 
 Open the project folder:
 cd SPMS-Software-Personnel-Management-System
 
 Run the project: Open "index.html" in your browser
+
 👩‍💻 Contributors
 
 IshikaChhikara (Developer)

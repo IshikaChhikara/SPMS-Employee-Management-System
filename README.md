@@ -26,11 +26,19 @@ cd SPMS-Software-Personnel-Management-System
 
 Run the project: Open "index.html" in your browser
 
-👩‍💻 Contributors
+## 🌐 Live Demo
 
-IshikaChhikara (Developer)
-@jyoti-jindal685 (Co-Developer)
-@KamalGhangash (Co-Developer)
+🔹 Admin & Employee Portal  
+https://ishikachhikara.github.io/SPMS-Employee-Management-System/
+
+🔹 Public Recruitment Portal  
+https://ishikachhikara.github.io/SPMS-Employee-Management-System/jobs.html
+
+## 👩‍💻 Contributors
+
+- [IshikaChhikara](https://github.com/IshikaChhikara)
+- [jyoti-jindal685](https://github.com/jyoti-jindal685)
+- [KamalGhangash](https://github.com/KamalGhangash)
 
 📌 Future Enhancements
 
